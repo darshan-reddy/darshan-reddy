@@ -4,7 +4,7 @@
 
 <p>a
   <em>
-    Final Year undergrad at <a href="https://www.uvce.ac.in/"> <b>University Visvesvaraya College of Engineering</b></a>, Bengaluru-01. <br>
+    Undergrad from <a href="https://www.uvce.ac.in/"> <b>University Visvesvaraya College of Engineering</b></a>, Bengaluru-01. <br>
     I'm a budding <b>Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> &nbsp;<br>who is <b>obsessed</b>
     with the idea of <b>building</b> stuff that helps in making <b>our world a better place to live.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em>  
